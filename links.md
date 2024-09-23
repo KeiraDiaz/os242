@@ -22,3 +22,9 @@ permalink: LINKS/
 * [60 Linux Commands](https://www.youtube.com/watch?v=gd7BXuUQ91w) - Helpful video on 60 linux commands we could use
   
 * [OS Practice](https://github.com/vinayak-sethi/Operating-Systems-Practice) - Another github filled with OS pratices to study on
+
+## --WEEK 3--
+
+* [Virtual Disks, a brief article](https://www.techtarget.com/searchvirtualdesktop/definition/virtual-hard-disk-VHD) - The short articles shows the difference between your usual physical disks and virtual disks
+
+* [Vim Cheat Sheets](https://vim.rtorr.com/) -  This a really comprehensive yet quick vim text editor cheat sheet
