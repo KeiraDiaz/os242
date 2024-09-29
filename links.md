@@ -28,3 +28,9 @@ permalink: LINKS/
 * [Virtual Disks, a brief article](https://www.techtarget.com/searchvirtualdesktop/definition/virtual-hard-disk-VHD) - The short articles shows the difference between your usual physical disks and virtual disks
 
 * [Vim Cheat Sheets](https://vim.rtorr.com/) -  This a really comprehensive yet quick vim text editor cheat sheet
+
+## --WEEK 4--
+
+* [Basics of Virtual Memory by MIT](https://youtu.be/8yO2FBBfaB0?si=pRrgx5_KojdlE_8F) - MIT video about Virtual Memory
+
+* [Virtual Memory Article from The Legendary GeeksforGeeks](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/) - This Geek4Geeks Article explains the basic concept of what a virtual memory is.
