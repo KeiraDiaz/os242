@@ -34,3 +34,11 @@ permalink: LINKS/
 * [Basics of Virtual Memory by MIT](https://youtu.be/8yO2FBBfaB0?si=pRrgx5_KojdlE_8F) - MIT video about Virtual Memory
 
 * [Virtual Memory Article from The Legendary GeeksforGeeks](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/) - This Geek4Geeks Article explains the basic concept of what a virtual memory is.
+
+## --WEEK 5--
+
+* [Memory management](https://www.geeksforgeeks.org/memory-management-in-operating-system/) - article from geeks for geeks about memory management.
+
+* [chap 10 exercises](https://www.studocu.com/row/document/xian-jiaotong-university/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/operating-system-concepts-exercise10/24296566) - exercise related to chapter 10
+
+* [Usual entertaining video](https://www.youtube.com/watch?v=fkGCLIQx1MI) - link about operating systems
