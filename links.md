@@ -42,3 +42,11 @@ permalink: LINKS/
 * [chap 10 exercises](https://www.studocu.com/row/document/xian-jiaotong-university/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/operating-system-concepts-exercise10/24296566) - exercise related to chapter 10
 
 * [Usual entertaining video](https://www.youtube.com/watch?v=fkGCLIQx1MI) - link about operating systems
+
+## --WEEK 6--
+
+* [forking in c](https://www.youtube.com/watch?v=cex9XrZCU14/) -  video explaining the whole C forking command which allows you to run programs simultaneously
+
+* [forking concept illustrated](https://www.youtube.com/watch?v=xVSPv-9x3gk) - video explaining the forking concept 
+
+* [Tarball archive format](https://www.youtube.com/watch?v=xVSPv-9x3gk) - more on tar archiving.
