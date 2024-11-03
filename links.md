@@ -50,3 +50,11 @@ permalink: LINKS/
 * [forking concept illustrated](https://www.youtube.com/watch?v=xVSPv-9x3gk) - video explaining the forking concept 
 
 * [Tarball archive format](https://www.youtube.com/watch?v=xVSPv-9x3gk) - more on tar archiving.
+
+## --WEEK 7--
+
+* [Article onSynchronization](https://www.geeksforgeeks.org/introduction-of-process-synchronization/) - here's a nice article about synchronization
+
+* [Playlist on Synchronization](https://www.youtube.com/watch?v=ph2awKa8r5Y&list=PLBlnK6fEyqRjDf_dmCEXgl6XjVKDDj0M2) - That's a whole playlist about synchronization 
+
+* [Linux filesystem](https://www.youtube.com/watch?v=42iQKuQodW4) - videos on filesystem

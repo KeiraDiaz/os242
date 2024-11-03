@@ -1,6 +1,12 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://doit.vlsm.org/ETC/logCodes.txt
+ZCZC W07 100 L02 Attended mandatory Class
+ZCZC W07 8 L05 Attempted the Friday quiz for Week 06
+ZCZC W07 250 L32 Watched YouTube vids for links.md
+ZCZC W07 150 L17 Worked on WEEK07 Assignments
+ZCZC W07 100 L02 Attended mandatory Class
+
 ZCZC W06 10 L41 TXT/mylog.txt related.
 ZCZC W06 30 L05 Quiz related including studying
 ZCZC W06 30 L32 YouTube: watching OS related topics, etc.
