@@ -58,3 +58,11 @@ permalink: LINKS/
 * [Playlist on Synchronization](https://www.youtube.com/watch?v=ph2awKa8r5Y&list=PLBlnK6fEyqRjDf_dmCEXgl6XjVKDDj0M2) - That's a whole playlist about synchronization 
 
 * [Linux filesystem](https://www.youtube.com/watch?v=42iQKuQodW4) - videos on filesystem
+
+### --WEEK 8--
+
+* [LFS GUIDE FULL](https://www.youtube.com/playlist?list=PLyc5xVO2uDsCQChvKRDhF-cvsguDfd-y2) - LFS : a full guide
+
+* [what is it for tho?](https://www.alibabacloud.com/blog/what-is-linux-lfs-linux-from-scratch_600026#:~:text=Linux%20From%20Scratch%20emphasizes%20understanding,the%20Linux%20system's%20inner%20workings.) - If you ever wondered what it's actually for
+
+* [Discussion on LFS](https://www.reddit.com/r/linux/comments/wcwyng/is_lfs_linux_from_scratch_a_good_way_to_learn_how/?rdt=60351) - discussion on lfs from experienced users
