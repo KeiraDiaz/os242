@@ -66,3 +66,12 @@ permalink: LINKS/
 * [what is it for tho?](https://www.alibabacloud.com/blog/what-is-linux-lfs-linux-from-scratch_600026#:~:text=Linux%20From%20Scratch%20emphasizes%20understanding,the%20Linux%20system's%20inner%20workings.) - If you ever wondered what it's actually for
 
 * [Discussion on LFS](https://www.reddit.com/r/linux/comments/wcwyng/is_lfs_linux_from_scratch_a_good_way_to_learn_how/?rdt=60351) - discussion on lfs from experienced users
+
+### --WEEK 9--
+
+* [Symbolic link material](https://www.geeksforgeeks.org/how-to-symlink-a-file-in-linux/) - symbolic links in linux
+
+* [Lfs](https://www.linuxfromscratch.org/) - Official LFS link
+
+* [PERL](https://archive.flossmanuals.net/command-line/perl.html) - more on the perl package
+
