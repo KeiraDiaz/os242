@@ -75,3 +75,10 @@ permalink: LINKS/
 
 * [PERL](https://archive.flossmanuals.net/command-line/perl.html) - more on the perl package
 
+### --WEEK 10--
+
+* [Final Page on Chapter 8](https://www.linuxfromscratch.org/lfs/view/12.2/chapter08/cleanup.html) - Cleaning up for this last chapter
+
+* [An ode to BLFS](https://www.linuxfromscratch.org/blfs/view/12.2/postlfs/grub-efi.html) - For chapter 8, there was a part where we had to install dependencies from BLFS which is beyond LFS.
+
+* [The best videos for LFS](https://www.youtube.com/c/Kernotex/videos) - Up to date and easy to follow from the great Kernotex 

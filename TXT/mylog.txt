@@ -1,6 +1,11 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://doit.vlsm.org/ETC/logCodes.txt
+ZCZC W10 100 L02 Attended mandatory Monday Class
+ZCZC W10 300 L20 Assignment #10
+ZCZC W10 8 L05 Attempted the Friday quiz for Week 09
+ZCZC W10 100 L02 Attended mandatory Wednesday Class
+
 ZCZC W09 100 L02 Attended mandatory Monday Class
 ZCZC W09 300 L19 Assignment #09
 ZCZC W09 8 L05 Attempted the Friday quiz for Week 07
